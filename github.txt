@@ -1,0 +1,7 @@
+Check current remote
+---------------------
+This shows the current GitHub repo linked.
+git remote -v          ***
+Remove existing remote
+-----------------------
+git remote remove origin     ***
